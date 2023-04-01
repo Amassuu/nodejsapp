@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/b06dfbeb-d806-4353-804c-e74ba91c6a56/resourceGroups/learn-36e33667-24df-4d94-8294-5b95fb88ace9/providers/Microsoft.Web/sites/ramdanhype",
+  "appService.deploySubpath": "."
+}
